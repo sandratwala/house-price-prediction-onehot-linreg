@@ -1,8 +1,6 @@
 # House Price Prediction Model
 
-[![Python](https://shields.io)](https://python.org)
-[![Jupyter](https://shields.io)](https://jupyter.org)
-[![Scikit-Learn](https://shields.io)](https://scikit-learn.org)
+
 
 A machine learning project built in a Jupyter Notebook environment to predict housing prices using historical regression data. This model splits provided training data to validate performance before generating a final submission set.
 
@@ -64,7 +62,7 @@ The notebook progresses sequentially through these core technical milestones:
 
 ---
 
-## 📊 Results & Visualization
+##  Results & Visualization
 
 ### Predicted House Prices by ID (Validation Set)
 The model's predictions on validation feature spaces map tightly across index references:
